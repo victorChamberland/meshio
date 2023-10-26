@@ -33,7 +33,7 @@ dependencies = [
 
 [project.optional-dependencies]
 all = [
-    "netCDF4 ~=1.5.8",
+    "netCDF4 <=1.5.8",
     "h5py"  # CGNS, H5M, MED, XDMF formats
 ]
 
