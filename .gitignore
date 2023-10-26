@@ -15,6 +15,7 @@
 .cache/
 MANIFEST
 README.rst
+venv/
 build/
 dist/
 doc/_build/
